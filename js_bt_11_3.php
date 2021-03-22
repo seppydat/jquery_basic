@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<title>bài tập</title>
 	<link rel="stylesheet" type="text/css" href="js_bt_11_3.css">
-	<script src="../jquery/jquery.js"></script>
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 	<script src="jquery_part2.js"></script>
 </head>
 <body>
